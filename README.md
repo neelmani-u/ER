@@ -1,5 +1,5 @@
 # ER - Real-time Facial Expression Analysis
-The Emotion Detection System is a sophisticated software application designed to accurately analyze and interpret human emotions in real-time by analyzing facial expressions. Leveraging advanced computer vision and machine learning techniques, this project offers a versatile tool for understanding and responding to human emotions in various contexts, from customer service interactions to psychological research.
+The ER System is a sophisticated software application designed to accurately analyze and interpret human emotions in real-time by analyzing facial expressions. Leveraging advanced computer vision and machine learning techniques, this project offers a versatile tool for understanding and responding to human emotions in various contexts, from customer service interactions to psychological research.
 
 # Key Features:
 - **Real-time Facial Analysis:** The core functionality of the system involves real-time analysis of facial expressions captured through a camera or video feed. The system recognizes key facial landmarks and extracts relevant features to determine emotions.
